@@ -1,4 +1,11 @@
+-Davi Almeida Desenzi
+-Arthur Bessa
+-Miguel Milok
+-João Rodrigues
+-Marcio Gastaldi
+
 # CP4-Edge
+
 Este código é um exemplo de um programa para um dispositivo que coleta dados de um sensor DHT22 (ou AM2302), um sensor de luminosidade e os envia para o serviço TagoIO usando um módulo WiFi. Aqui está uma análise do código:
 
 Inclusão de Bibliotecas e Declaração de Variáveis Globais:
